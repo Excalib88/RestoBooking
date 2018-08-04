@@ -175,7 +175,6 @@ D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking.MobileClient\RestoBooking.Mobi
 D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
 D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
 D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient.Android\bin\Debug\RestoBooking.MobileClient.Android.dll
-D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient.Android\obj\Debug\linksrc\RestoBooking.MobileClient.pdb
 D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient.Android\obj\Debug\linksrc\RestoBooking.MobileClient.Android.dll.mdb
 D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
 D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
