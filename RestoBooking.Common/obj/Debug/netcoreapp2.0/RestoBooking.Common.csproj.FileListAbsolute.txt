@@ -1,0 +1,9 @@
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.Common\bin\Debug\netcoreapp2.0\RestoBooking.Common.deps.json
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.Common\bin\Debug\netcoreapp2.0\RestoBooking.Common.dll
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.Common\bin\Debug\netcoreapp2.0\RestoBooking.Common.pdb
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.Common\obj\Debug\netcoreapp2.0\RestoBooking.Common.csprojAssemblyReference.cache
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.Common\obj\Debug\netcoreapp2.0\RestoBooking.Common.csproj.CoreCompileInputs.cache
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.Common\obj\Debug\netcoreapp2.0\RestoBooking.Common.AssemblyInfoInputs.cache
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.Common\obj\Debug\netcoreapp2.0\RestoBooking.Common.AssemblyInfo.cs
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.Common\obj\Debug\netcoreapp2.0\RestoBooking.Common.dll
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.Common\obj\Debug\netcoreapp2.0\RestoBooking.Common.pdb

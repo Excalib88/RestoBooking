@@ -1,0 +1,12 @@
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient\bin\Debug\netstandard2.0\RestoBooking.MobileClient.deps.json
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient\bin\Debug\netstandard2.0\RestoBooking.MobileClient.dll
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient\bin\Debug\netstandard2.0\RestoBooking.MobileClient.pdb
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient\obj\Debug\netstandard2.0\RestoBooking.MobileClient.csprojAssemblyReference.cache
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient\obj\Debug\netstandard2.0\RestoBooking.MobileClient.csproj.CoreCompileInputs.cache
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient\obj\Debug\netstandard2.0\RestoBooking.MobileClient.AssemblyInfoInputs.cache
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient\obj\Debug\netstandard2.0\RestoBooking.MobileClient.AssemblyInfo.cs
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient\obj\Debug\netstandard2.0\XamlC.stamp
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient\obj\Debug\netstandard2.0\RestoBooking.MobileClient.dll
+D:\mansurov_da\PROJECTS\RestoBooking\RestoBooking\RestoBooking.MobileClient\RestoBooking.MobileClient\obj\Debug\netstandard2.0\RestoBooking.MobileClient.pdb
